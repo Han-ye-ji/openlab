@@ -2,5 +2,12 @@
 
 void foo()
 {
-	printf("foo");
+	printf("foo\n");
+}
+
+
+void goo()
+{
+	printf("goo\n");
+
 }
