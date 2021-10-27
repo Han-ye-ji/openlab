@@ -3,5 +3,6 @@
 
 void foo(void);
 void goo(void);
+void koo(int);
 
 #endif // FUNCS_H
